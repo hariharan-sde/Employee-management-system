@@ -28,4 +28,16 @@ The project demonstrates **RESTful APIs, clean architecture, and database integr
 ---
 
 ## 📂 Project Structure
+expense-tracker
+├── src/main/java
+│ ├── controller
+│ ├── service
+│ ├── repository
+│ └── model
+├── src/main/resources
+│ └── application.properties
+├── pom.xml
+└── README.md
+
+
 
