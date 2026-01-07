@@ -1,8 +1,5 @@
 # Employee-management-system
-Personal Expense Tracker built using Spring Boot and SQL to manage daily expenses efficiently. Supports adding, viewing, updating, and deleting expenses with clean backend architecture.
-# Expense Tracker Application
-
-A **Spring Boot–based Expense Tracker application** that helps users manage and track their daily expenses efficiently.  
+Personal Expense Tracker built using Spring Boot and SQL to manage daily expenses efficiently. Supports adding, viewing, updating, and deleting expenses with clean backend architecture.  
 The project demonstrates **RESTful APIs, clean architecture, and database integration** using industry best practices.
 
 ---
